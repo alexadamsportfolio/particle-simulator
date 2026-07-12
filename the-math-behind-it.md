@@ -21,4 +21,13 @@ Below is the resulting distribution:
 
 <img width="1919" height="1013" alt="LennardJones" src="https://github.com/user-attachments/assets/61a44de4-e1d7-43c3-9850-0aa9c0570ccf" />
 
-Not only is a more extreme deviation present, but this distribution is notably centered more towards higher velocities than in a traditional Maxwell-Boltzmann distribution. 
+Not only is a more extreme deviation present, but this distribution is notably centered more towards higher velocities than in a traditional Maxwell-Boltzmann distribution. This result was more surprising, as the Lennard-Jones potential is supposed to be more realistic than the aforementioned inverse square law.
+
+# Gaussian 
+
+The Gaussian function is ubiquitous in statistics, so for the sake of mathematical curiosity I decided to define a force function in the form of $$|\vec{F}| \propto e^{-x^2}$$. Below is the resulting distribution:
+
+<img width="1919" height="1019" alt="Gaussian" src="https://github.com/user-attachments/assets/63d83e05-095f-4c4c-a6b5-86e9e788b03f" />
+
+Once again, we obtain a more right-centered distribution with elevated deviation. At this point, it is tempting to believe that this distribution - and potentially the Lennard-Jones one - are not Maxwell-Boltzmann, but instead normally distributed. Investigating this will be an interesting exercise when I develop more experience in statistical mechanics.
+
