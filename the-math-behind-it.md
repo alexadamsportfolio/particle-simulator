@@ -31,3 +31,10 @@ The Gaussian function is ubiquitous in statistics, so for the sake of mathematic
 
 Once again, we obtain a more right-centered distribution with elevated deviation. At this point, it is tempting to believe that this distribution - and potentially the Lennard-Jones one - are not Maxwell-Boltzmann, but instead normally distributed. Investigating this will be an interesting exercise when I develop more experience in statistical mechanics.
 
+# Sinc Function
+
+As a massive fan of harmonic analysis, I've always held a particular admiration for the function $$sinc(x) = \frac{sin(x){x}$$. Though a beautiful function with endless applications in signal processing, there is little physical sense to a force function that flip-flops back and forth between attraction and repulsion endlessly, and so it should be ridiculous that the resulting velocity distribution should anywhere near resemble Maxwell-Boltzmann. Right?
+
+<img width="1919" height="1015" alt="Sinc" src="https://github.com/user-attachments/assets/f60250ac-39cc-4d72-a034-d5da3fb8c852" />
+
+Using the sinc function for force matches the Maxwell-Boltzmann distribution in a way that none of the other functions come close to. I don't know why; maybe it's because its harmonic properties provide it with a much more mathematically pure form of diffusion, or maybe all those properties simply become irrelevant at the macrostate level. Either way, harmonics are beautiful, macrostates are beautiful, and my academic journey will be built on both.
