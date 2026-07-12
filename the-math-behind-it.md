@@ -37,4 +37,4 @@ As a massive fan of harmonic analysis, I've always held a particular admiration 
 
 <img width="1919" height="1015" alt="Sinc" src="https://github.com/user-attachments/assets/f60250ac-39cc-4d72-a034-d5da3fb8c852" />
 
-Using the sinc function for force matches the Maxwell-Boltzmann distribution in a way that none of the other functions come close to. I don't know why; maybe it's because its harmonic properties provide it with a much more mathematically pure form of diffusion, or maybe all those properties simply become irrelevant at the macrostate level. Either way, harmonics are beautiful, macrostates are beautiful, and my academic journey will be built on both.
+Using the sinc function for force matches the Maxwell-Boltzmann distribution to a degree that none of the other functions come close to. I don't know why; maybe it's because its harmonic properties provide it with a much more mathematically pure form of diffusion, or maybe all those properties simply become irrelevant at the macrostate level. Either way, harmonics are beautiful, macrostates are beautiful, and my academic journey will be built on both.
